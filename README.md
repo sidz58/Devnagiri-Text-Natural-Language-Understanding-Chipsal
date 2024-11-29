@@ -13,7 +13,7 @@ Task A: Devanagari Script Language Identification among Nepali, Marathi, Sanskri
 Task B: Hate Speech Detection in Devanagari Script Language from a dataset of Nepali and Hindi sentences.
 Task C: Target Identification for Hate Speech in Devanagari Script Language, for identifying the direction of hate speech towards "individual", "organization" or "community."
 
-#### Approach:
+### Approach:
 Fine-tuning pretrained transformer models trained on devnagiri texts of various Indic languages. Modifying the output head for the three tasks separately.
 Playing with multiple models and identifying the best performing model. In the end, I extract the predictions as JSON files and save the model, along with accuracy scores for the same.
 
