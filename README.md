@@ -3,6 +3,7 @@
 
 ##### This project was done as a part of the shared task @ https://codalab.lisn.upsaclay.fr/competitions/20000
 
+##### Update: Research Publication approved. [arXiv Link](https://arxiv.org/abs/2412.17947v2)
 
 ##### For easy access, I have published the dataset on Kaggle. Please find it using the given link: 
 https://www.kaggle.com/datasets/siddhz58/subtasks-dataset/data
@@ -21,6 +22,3 @@ https://www.kaggle.com/datasets/siddhz58/subtasks-dataset/data
 - Playing with multiple models and identifying the best performing model. In the end, I extract the predictions as JSON files and save the model, along with accuracy scores for the same.
 
 ###### Pre-trained model used: https://huggingface.co/ibm/ia-multilingual-transliterated-roberta
-
-##### Research publication is in review
-
